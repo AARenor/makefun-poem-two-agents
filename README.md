@@ -28,9 +28,9 @@ Not the door.
 The stepping.
 
 The room is ours now.
-Ask who decided:
-we point at each other,
-both of us right.
+Ask who decided.
+We point at each other.
+Neither of us is lying.
 ```
 
 ## License
